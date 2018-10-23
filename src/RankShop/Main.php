@@ -1,6 +1,6 @@
 <?php
 
-declare(strict_type=1);
+declare(strict_types=1);
 
 namespace RankShop;
 
@@ -25,7 +25,7 @@ class Main extends PluginBase implements Listener{
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
 		$this->eco = $this->getServer()->getPluginManager()->getPlugin("EconomyAPI");
 		
-		@mkdir($this->getDataFolder());
+	@mkdir($this->getDataFolder());
         $this->saveDefaultConfig();
         $this->getResource("config.yml");
     }
