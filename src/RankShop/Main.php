@@ -25,9 +25,9 @@ class Main extends PluginBase implements Listener{
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
 		$this->eco = $this->getServer()->getPluginManager()->getPlugin("EconomyAPI");
 		
-		@mkdir($this->getDataFolder());
-        $this->saveResource("config.yml");
-        $this->settings = new Config($this->getDataFolder() . "config.yml", Config::YAML);
+	@mkdir($this->getDataFolder());
+        $this->saveDefaultConfig();
+        $this->getResource("config.yml");
     }
 
     public function checkDepends(){
