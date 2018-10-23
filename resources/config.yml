@@ -1,0 +1,80 @@
+# THE PRICE OF THE RANKS#
+
+vip.cost: 200000
+vip+.cost: 400000
+mvp.cost: 600000
+mvp+.cost: 800000
+god.cost: 1000000
+destroyer.cost: 1500000
+elite.cost: 1750000
+king.cost: 2000000
+queen.cost: 2000000
+
+# Text if the request was cancelled #
+
+cancelled: "§cYou left RankShopUI"
+
+# VIP MESSAGE #
+
+vip.content: "§fAre you sure you want to continue buying VIP Rank? It costs §2$200000."
+vip.buy.success: "§aYou've successfully bought VIP Rank for §2$200000."
+vip.no.money: "§cYou don't have enough money to buy VIP Rank."
+vip.cancelled: "§cYou've cancelled buying VIP Rank."
+
+# VIP+ MESSAGE #
+
+vip+.content: "§fAre you sure you want to continue buying VIP+ Rank? It costs §2$400000."
+vip+.buy.success: "§aYou've successfully bought VIP+ Rank for §2$400000."
+vip+.no.money: "§cYou don't have enough money to buy VIP+ Rank."
+vip+.cancelled: "§cYou've cancelled buying VIP+ Rank."
+
+# MVP MESSAGE #
+
+mvp.content: "§fAre you sure you want to continue buying MVP Rank? It costs §2$600000."
+mvp.buy.success: "§aYou've successfully bought MVP Rank for §2$600000."
+mvp.no.money: "§cYou don't have enough money to buy MVP Rank."
+mvp.cancelled: "§cYou've cancelled buying MVP Rank."
+
+# MVP+ MESSAGE #
+
+mvp+.content: "§fAre you sure you want to continue buying MVP+ Rank? It costs §2$800000."
+mvp+.buy.success: "§aYou've successfully bought MVP+ Rank for §2$800000."
+mvp+.no.money: "§cYou don't have enough money to buy MVP+ Rank."
+mvp+.cancelled: "§cYou've cancelled buying MVP+ Rank."
+
+# GOD MESSAGE #
+
+god.content: "§fAre you sure you want to continue buying GOD Rank? It costs §2$1000000."
+god.buy.success: "§aYou've successfully bought GOD Rank for §2$1000000."
+god.no.money: "§cYou don't have enough money to buy GOD Rank."
+god.cancelled: "§cYou've cancelled buying GOD Rank."
+
+# DESTROYER MESSAGE #
+
+destroyer.content: "§fAre you sure you want to continue buying DESTROYER Rank? It costs §2$1500000."
+destroyer.buy.success: "§aYou've successfully bought DESTROYER Rank for §2$1500000."
+destroyer.no.money: "§cYou don't have enough money to buy DESTROYER Rank."
+destroyer.cancelled: "§cYou've cancelled buying DESTROYER Rank."
+
+# ELITE MESSAGE #
+
+elite.content: "§fAre you sure you want to continue buying ELITE Rank? It costs §2$1750000."
+elite.buy.success: "§aYou've successfully bought ELITE Rank for §2$1750000."
+elite.no.money: "§cYou don't have enough money to buy ELITE Rank."
+elite.cancelled: "§cYou've cancelled buying ELITE Rank."
+
+# KING MESSAGE #
+
+king.content: "§fAre you sure you want to continue buying KING Rank? It costs §2$2000000."
+king.buy.success: "§aYou've successfully bought KING Rank for §2$2000000."
+king.no.money: "§cYou don't have enough money to buy KING Rank."
+king.cancelled: "§cYou've cancelled buying KING Rank."
+
+# QUEEN MESSAGE #
+
+queen.content: "§fAre you sure you want to continue buying QUEEN Rank? It costs §2$2000000."
+queen.buy.success: "§aYou've successfully bought QUEEN Rank for §2$2000000."
+queen.no.money: "§cYou don't have enough money to buy QUEEN Rank."
+queen.cancelled: "§cYou've cancelled buying QUEEN Rank."
+
+...
